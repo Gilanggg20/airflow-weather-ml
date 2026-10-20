@@ -3,4 +3,11 @@ pandas
 numpy
 plotly
 scikit-learn
-apache-airflow-providers-mysql
+
+#ubah ke ini jika menjalankan airflow
+# streamlit
+# pandas
+# numpy
+# plotly
+# scikit-learn
+# apache-airflow-providers-mysql
